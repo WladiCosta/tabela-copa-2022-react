@@ -19,15 +19,13 @@ h1{
     align-items: center;
 }
 
+
 .list{
+    
     display: flex;
-    width: 750px;
-   
+    width: 700px;
 }
 
-.list input{
-    margin-left:  50px;
-}
 
 table {
     width: 100%;
